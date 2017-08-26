@@ -1,9 +1,9 @@
 Security
 ========
 
-This document is intended to help our customers'
+This document is intended to help our visitors'
 security, risk, compliance, or developer teams
-evaluate what we do with our customers' code and data.
+evaluate what we do with their code and data.
 
 Vulnerability Reporting
 -----------------------
