@@ -11,7 +11,7 @@ First, you see our landing page. You can scroll down to see some additional
 information, if you want, but to use our project you need to press the green 
 button in the middle of the screen.  
   
-![GitHub authentication screen](/screenshots/github_auth.png?raw=true)
+![GitHub authentication screen](/screenshots/github_auth.png?raw=true)  
 You'll be redirected to GitHub where you authenticate your GitHub account with
 OAuth.
   
