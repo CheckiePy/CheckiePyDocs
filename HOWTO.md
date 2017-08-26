@@ -43,5 +43,5 @@ want to hook to the repo.
 Now webhook is set to your repository, and you can prove it if you go to Settings of 
 your Repo on GitHub.
 
-Congradulations! Wait for pull-requests to your project and our bot will comment all
+Congratulations! Wait for pull-requests to your project and our bot will comment all
 you repo's codestyle violations.
