@@ -9,13 +9,8 @@ Vulnerability Reporting
 -----------------------
 
 For security inquiries or vulnerability reports, please email
-<>.
-If you'd like, you can use our [PGP key] when reporting vulnerabilities.
+<flerchy@gmail.com>!
 
-[PGP key]: https://thoughtbot.com/thoughtbot.asc
-
-thoughtbot
-----------
 
 What happens when you authenticate your GitHub account
 ------------------------------------------------------
@@ -36,7 +31,7 @@ and stored in our Postgres database in Docker container.
 What happens when you enable CheckiePy on your GitHub repository
 ------------------------------------------------------------
 
-When you click the "Connecnt" button in the Hound web interface
+When you click the "Connect" button in the CheckiePy interface
 for one of your GitHub repositories,
 we send your GitHub token from the web browser's session to our server.
 
@@ -44,7 +39,7 @@ We use your GitHub token to add the [@CheckiePyBot] GitHub user to your reposito
 via the [GitHub collaborator API][api1]. @CheckiePy will be added to a team that
 has access to the enabled repository. If an existing team cannot be found, we'll
 create a "Services" team with *push* access to the enabled repository. This is
-necessary for @CheckiePy to see pull requests, make comments, and update pull
+necessary for [@CheckiePyBot] to see pull requests, make comments, and update pull
 request statuses.
 
 [@CheckiePyBot]: https://github.com/CheckiePyBot
