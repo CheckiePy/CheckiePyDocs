@@ -6,7 +6,7 @@ with our service interface.
 
 Getting started
 -----------------------
-![Landing page](/screenshots/main_page.png?raw=true =250x)
+![Landing page](/screenshots/main_page.png =250x)
 First, you see our landing page. You can scroll down to see some additional
 information, if you want, but to use our project you need to press the green 
 button in the middle of the screen.  
